@@ -1,1 +1,1 @@
-# Finan-as---Machine-Learning
+# Estudo de Ações - Python - MAchine Learning

@@ -1,1 +1,1 @@
-# Estudo de Ações - Python - Machine Learning - 1ª Parte
+# Previsão de Ações - Machine Learning - 1ª Parte
